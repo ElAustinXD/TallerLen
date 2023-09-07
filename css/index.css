@@ -1,32 +1,33 @@
-.imagen-G { 
-    position: absolute; 
-    right: 110px; /*corre ala derecha*/ 
-    top: 160px; /* Ajusta esta propiedad para mover el borde hacia abajo */ 
-    width: 900px; 
-    height: 100px; 
-    border: 1px solid #a7a0a0; /* Ancho del borde y color */ 
-    padding: 100px; 
-  } 
-   
-  /* Clase para aplicar un borde alrededor de la imagen */ 
-  .border { 
-   
-    box-sizing: border-box; /* Incluye el borde en el tamaño total */ 
-    width: 50%; /* Para que la imagen ocupe todo el ancho del contenedor */ 
-    height: 280%; /* Para que la imagen ocupe toda la altura del contenedor */ 
-    margin-left: 220px; /* Ajusta esta propiedad para mover la imagen hacia la derecha */ 
-    margin-top: -90px; /* Ajusta esta propiedad para mover la imagen hacia arriba */ 
-  } 
-   
-  .login-button { 
-    font-family: 'Segoe UI'; 
-    background-color: #f21823; 
-    border: none; 
-    padding: 4px 37px; 
-    width: 80px; 
-    position: absolute; 
-    top: 470px; 
-    right: 600px; 
-    font-size: 22px; /* Ajusta el tamaño de la fuente a tu preferencia */ 
+.imagen-G {
+    position: absolute;
+    right: 110px; /*corre ala derecha*/
+    top: 160px; /* Ajusta esta propiedad para mover el borde hacia abajo */
+    width: 900px;
+    height: 100px;
+    border: 1px solid #a7a0a0; /* Ancho del borde y color */
+    padding: 100px;
+  }
+  
+  /* Clase para aplicar un borde alrededor de la imagen */
+  .border {
+  
+    box-sizing: border-box; /* Incluye el borde en el tamaño total */
+    width: 50%; /* Para que la imagen ocupe todo el ancho del contenedor */
+    height: 280%; /* Para que la imagen ocupe toda la altura del contenedor */
+    margin-left: 220px; /* Ajusta esta propiedad para mover la imagen hacia la derecha */
+    margin-top: -90px; /* Ajusta esta propiedad para mover la imagen hacia arriba */
+  }
+  
+  .login-button {
+    font-family: 'Segoe UI';
+    background-color: #f21823;
+    border: none;
+    padding: 4px 37px;
+    width: 80px;
+    position: absolute;
+    top: 470px;
+    right: 600px;
+    font-size: 22px; /* Ajusta el tamaño de la fuente a tu preferencia */
     text-decoration: none; /* Quita el subrayado con !important */
-  }  
+  
+  }
