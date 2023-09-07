@@ -1,0 +1,38 @@
+
+.contenedor {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    border: solid 1px black;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.button {
+    display: flex;
+    font-family: 'Segoe UI';
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    width: 200px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto {
+    font-family: 'Segoe UI';
+    justify-content: left;
+    text-align: left;
+    width: 54%;
+}
+
+.espacio {
+    margin-left: 50px;
+}
